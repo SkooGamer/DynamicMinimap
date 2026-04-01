@@ -94,4 +94,6 @@ Created by SkooGamer
 
 ---
 
-![Demo](images/demo.gif)
+# Preview
+
+![Minimap Preview](images/preview.png)
