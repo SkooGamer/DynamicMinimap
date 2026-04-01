@@ -91,3 +91,7 @@ MIT License — free to use in personal and commercial projects.
 ## 👤 Author
 
 Created by SkooGamer
+
+---
+
+![Demo](images/demo.gif)
