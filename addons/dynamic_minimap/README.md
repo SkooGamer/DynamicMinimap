@@ -92,8 +92,3 @@ MIT License — free to use in personal and commercial projects.
 
 Created by SkooGamer
 
----
-
-# Preview
-
-![Minimap Preview](images/preview.png)
