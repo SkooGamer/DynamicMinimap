@@ -1,3 +1,7 @@
+# Preview
+
+![Minimap Preview](preview.png)
+
 # DynamicMinimap System (Godot 4)
 
 A real-time circular minimap system for Godot 4 featuring 3D world tracking, player rotation alignment, and edge clamping.
@@ -91,9 +95,3 @@ MIT License — free to use in personal and commercial projects.
 ## 👤 Author
 
 Created by SkooGamer
-
----
-
-# Preview
-
-![Minimap Preview](preview.png)
