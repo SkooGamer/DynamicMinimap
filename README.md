@@ -2,6 +2,9 @@
 
 A real-time circular minimap system for Godot 4 featuring 3D world tracking, player rotation alignment, and edge clamping.
 
+![Godot 4](https://img.shields.io/badge/Godot-4.x-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 ---
 
 ## ✨ Features
