@@ -1,4 +1,4 @@
-<h1 align="center">DynamicMinimap System (Godot 4)</h1>
+<h1 align="center">DynamicMinimap System (Godot 4.x)</h1>
 
 <p align="center">
   <a href="https://godotengine.org/">
