@@ -1,10 +1,18 @@
-# DynamicMinimap System (Godot 4)
+<h1 align="center">DynamicMinimap System (Godot 4)</h1>
 
-[![Godot 4](https://img.shields.io/badge/Godot-4.x-blue)](https://godotengine.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/version-1.0-green)]()
+<p align="center">
+  <a href="https://godotengine.org/">
+    <img src="https://img.shields.io/badge/Godot-4.x-blue">
+  </a>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg">
+  </a>
+  <img src="https://img.shields.io/badge/version-1.0-green">
+</p>
 
+<p align="center">
 A real-time circular minimap system for Godot 4 featuring 3D world tracking, player rotation alignment, and edge clamping.
+</p>
 
 ---
 
