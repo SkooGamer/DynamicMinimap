@@ -84,7 +84,7 @@ You can customize:
 
 ## 📄 License
 
-MIT License — free to use in personal and commercial projects.
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
 
