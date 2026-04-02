@@ -60,8 +60,8 @@ Use Godot Groups:
 | Type   | Group Name |
 |--------|------------|
 | Player | <code style="color:#e0e0e0">player</code> |
-| Enemy  | enemy |
-| Item   | item |
+| Enemy  | <code style="color:#e83f6a">enemy</code> |
+| Item   | <code style="color:#66c779">item</code> |
 
 Example: add_to_group("enemy")
 
