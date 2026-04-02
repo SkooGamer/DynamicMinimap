@@ -106,7 +106,8 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 Created by **SkooGamer**
 
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&logoColor=white)](SEU_LINK_AQUI)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&logoColor=white)](https://www.youtube.com/@SkooGamer)
+[![GitHub](https://img.shields.io/badge/GitHub-SkooGamer-black?logo=github&logoColor=white)](https://github.com/SkooGamer)
 
 ---
 
