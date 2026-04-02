@@ -59,9 +59,9 @@ Use Godot Groups:
 
 | Type   | Group Name |
 |--------|------------|
-| Player | <span style="color:#e0e0e0">player</span> |
-| Enemy  | <span style="color:#e83f6a">enemy</span> |
-| Item   | <span style="color:#66c779">item</span> |
+| Player | player |
+| Enemy  | enemy |
+| Item   | item |
 
 Example: add_to_group("enemy")
 
