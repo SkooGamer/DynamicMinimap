@@ -69,7 +69,7 @@ func _world_to_minimap(world_pos: Vector2):
 	
 	var center_pos = Vector2(player_node.global_position.x, player_node.global_position.z)
 	var offset = world_pos - center_pos
-	offset.x *= -1
+	offset.x *= 1
 	
 	var angle = player_node.global_rotation.y
 	
