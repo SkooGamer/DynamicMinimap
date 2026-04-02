@@ -59,9 +59,9 @@ Use Godot Groups:
 
 | Type   | Group Name |
 |--------|------------|
-| Player | ![](https://img.shields.io/badge/player-grey) |
-| Enemy  | ![](https://img.shields.io/badge/enemy-red) |
-| Item   | ![](https://img.shields.io/badge/item-green) |
+| Player | 🔵 `player` |
+| Enemy  | 🔴 `enemy` |
+| Item   | 🟢 `item` |
 
 Example: add_to_group("enemy")
 
