@@ -59,7 +59,7 @@ Use Godot Groups:
 
 | Type   | Group Name |
 |--------|------------|
-| Player | player |
+| Player | <code style="color:#e0e0e0">player</code> |
 | Enemy  | enemy |
 | Item   | item |
 
