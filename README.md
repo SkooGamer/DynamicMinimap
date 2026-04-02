@@ -59,7 +59,7 @@ Use Godot Groups:
 
 | Type   | Group Name |
 |--------|------------|
-| Player | 🔵 `player` |
+| Player | ⚪ `player` |
 | Enemy  | 🔴 `enemy` |
 | Item   | 🟢 `item` |
 
