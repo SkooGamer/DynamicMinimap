@@ -7,7 +7,9 @@
   <a href="LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg">
   </a>
-  <img src="https://img.shields.io/badge/version-1.0-green">
+  <a href="https://godotengine.org/">
+    <img src="https://img.shields.io/badge/version-1.0-green">
+  </a>
 </p>
 
 <p align="center">
