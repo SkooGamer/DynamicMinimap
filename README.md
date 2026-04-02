@@ -7,7 +7,7 @@
   <a href="LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg">
   </a>
-  <a href="[https://godotengine.org/](https://github.com/SkooGamer/DynamicMinimap)">
+  <a href="https://github.com/SkooGamer/DynamicMinimap">
     <img src="https://img.shields.io/badge/version-1.0-green">
   </a>
 </p>
