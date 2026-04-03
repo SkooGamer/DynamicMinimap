@@ -84,9 +84,9 @@ In the inspector: player_node = YourPlayerNode
 
 ---
 
-## 📍 Sistema de Grupos (ATUALIZADO) 
+## 📍 Group System (UPDATE) 
 
-Os grupos agora são OBRIGATÓRIOS para rastreamento. 
+Grouping is now MANDATORY for tracking.
 
 | Type | Group Name | 
 |--------|------------| 
