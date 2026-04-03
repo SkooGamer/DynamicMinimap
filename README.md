@@ -61,28 +61,6 @@ Every object MUST:
 
 ---
 
-## ⚙️ Configuração (ATUALIZADA v1.1) 
-
-### Configuração 
-- `player_node` → Referência do jogador 
-- `radius` → Tamanho do minimapa 
-- `world_scale` → Escala do mundo para o minimapa 
-
-### Comportamento 
-- `clamp_to_border` → Mantém os objetos na borda do minimapa 
-- `rotate_with_player` → Rotaciona o minimapa com o jogador 
-- `enabled_auto_register` → Escaneia grupos automaticamente 
-
-### Ícones 
-- `icons` → Array de recursos IconType 
-- `icon_size` → Tamanho do ícone de textura 
-- `use_default_icons` → Carrega ícones padrão integrados 
-
-### Depuração 
-- `show_debug` → Imprime informações de depuração (ausentes jogador/grupos)
-
----
-
 ## 📦 Installation
 
 1. Download or clone this repository
@@ -120,24 +98,37 @@ Example: add_to_group("enemy")
 
 ---
 
-## ⚙️ Configuration
+## ⚙️ Configuração (ATUALIZADA v1.1) 
 
-You can customize:
+### Configuração 
+- `player_node` → Referência do jogador 
+- `radius` → Tamanho do minimapa 
+- `world_scale` → Escala do mundo para o minimapa 
 
-- Radius
-- Border size
-- Background color
-- Icon colors per type
-- World scale
+### Comportamento 
+- `clamp_to_border` → Mantém os objetos na borda do minimapa 
+- `rotate_with_player` → Rotaciona o minimapa com o jogador 
+- `enabled_auto_register` → Escaneia grupos automaticamente 
+
+### Ícones 
+- `icons` → Array de recursos IconType 
+- `icon_size` → Tamanho do ícone de textura 
+- `use_default_icons` → Carrega ícones padrão integrados 
+
+### Depuração 
+- `show_debug` → Imprime informações de depuração (ausentes jogador/grupos)
 
 ---
 
 ## 🎯 How it works
 
-- Converts world XZ position into 2D minimap space
-- Rotates based on player direction
-- Scales distance based on `world_scale`
-- Clamps objects to border instead of hiding them
+- Converts the world's XZ position into a 2D minimap
+- Supports Node2D and Node3D
+- Applies player rotation compensation (optional)
+- Scales using `world_scale`
+- Fixes objects to the edge when enabled
+- Dynamically renders icons based on the IconType system
+- Uses group-based tracking for all entities
 
 ---
 
