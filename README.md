@@ -84,17 +84,19 @@ In the inspector: player_node = YourPlayerNode
 
 ---
 
-### 3. Add objects to the system
+## 📍 Sistema de Grupos (ATUALIZADO) 
 
-Use Godot Groups:
+Os grupos agora são OBRIGATÓRIOS para rastreamento. 
 
-| Type   | Group Name |
-|--------|------------|
-| Player | ⚪ `player` |
-| Enemy  | 🔴 `enemy` |
-| Item   | 🟢 `item` |
+| Tipo | Nome do Grupo | 
+|--------|------------| 
+| Jogador | `jogador` | 
+| Inimigo | `inimigo` | 
+| Item | `item` | 
 
-Example: add_to_group("enemy")
+Exemplo: 
+```gdscript 
+add_to_group("inimigo")
 
 ---
 
