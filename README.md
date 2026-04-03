@@ -18,17 +18,17 @@ A real-time circular minimap system for Godot 4 featuring 3D world tracking, pla
 
 ---
 
-## ✨ Features
+## 🆕 Version 1.1 Updates
 
-- 🌍 Rastreamento de mundo 3D e 2D em tempo real 
-- 🧭 Alinhamento de rotação do jogador 
-- 📍 Sistema de rastreamento de entidades (inimigo, item, jogador, etc.) 
-- ⚡ E
-- 🎨 **Sistema de ícones usando Recursos (Cor ou Textura 2D)** 
-- 📦 **Conjuntos de ícones padrão (carregados automaticamente)** 
-- 📏 Mapeamento escalável do mundo para o minimapa 
-- 🧩 Fácil integração baseada em grupos 
-- 🧠 Sistema de registro automático para nós rastreados 
+- 🎨 Added icon system using the `IconType` feature (Color or 2D Texture)
+- 📦 Added default preset icons (automatically loaded from the plugin folder)
+- 🌍 Added 2D support (unified Node2D + Node3D system)
+- 🧭 Player icon now supports direction rotation
+- ⚡
+- 📍 Objects now strictly depend on group names + IconType mapping
+- 🎯 Priority rendering: Texture → Player Drawing → Color feature
+- 🧠 Improved edge fixing system
+- 🧩 Cleaner modular architecture for plugin use
 
 ---
 
