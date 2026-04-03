@@ -95,7 +95,7 @@ Grouping is now MANDATORY for tracking.
 | Item | `item` | 
 
 Example: 
-Use `add_to_group("enemy")` to register the object.
+`add_to_group("enemy")` to register the object.
 
 ---
 
