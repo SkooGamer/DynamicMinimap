@@ -88,15 +88,15 @@ In the inspector: player_node = YourPlayerNode
 
 Os grupos agora são OBRIGATÓRIOS para rastreamento. 
 
-| Tipo | Nome do Grupo | 
+| Type | Group Name | 
 |--------|------------| 
-| Jogador | `jogador` | 
-| Inimigo | `inimigo` | 
+| Player | `player` | 
+| Enemy | `enemy` | 
 | Item | `item` | 
 
 Exemplo: 
 ```gdscript 
-add_to_group("inimigo")```
+add_to_group("inimigo")
 
 ---
 
