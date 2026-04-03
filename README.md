@@ -114,3 +114,9 @@ Created by **SkooGamer**
 # Preview
 
 ![Minimap Preview](images/preview.png)
+
+---
+
+## 🎥 Video Demo
+
+[![Watch on YouTube](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://youtu.be/VIDEO_ID)
