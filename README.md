@@ -101,22 +101,22 @@ Example: add_to_group("enemy")
 ## ⚙️ Settings (UPDATE v1.1) 
 
 ### Settings 
-- `player_node` → Referência do jogador 
-- `radius` → Tamanho do minimapa 
-- `world_scale` → Escala do mundo para o minimapa 
+- `player_node` → Player reference
+- `radius` → Minimap size
+- `world_scale` → World scale for the minimap
 
 ### Behavior 
-- `clamp_to_border` → Mantém os objetos na borda do minimapa 
-- `rotate_with_player` → Rotaciona o minimapa com o jogador 
-- `enabled_auto_register` → Escaneia grupos automaticamente 
+- `clamp_to_border` → Keeps objects on the edge of the minimap
+- `rotate_with_player` → Rotates the minimap with the player
+- `enabled_auto_register` → Scans groups automatically 
 
 ### Icons
-- `icons` → Array de recursos IconType 
-- `icon_size` → Tamanho do ícone de textura 
-- `use_default_icons` → Carrega ícones padrão integrados 
+- `icons` → IconType resource array 
+- `icon_size` → Texture icon size
+- `use_default_icons` → Loads standard built-in icons
 
 ### Debug 
-- `show_debug` → Imprime informações de depuração (ausentes jogador/grupos)
+- `show_debug` → Prints debugging information (missing player/groups)
 
 ---
 
