@@ -95,8 +95,7 @@ Grouping is now MANDATORY for tracking.
 | Item | `item` | 
 
 Example: 
-```gdscript
-add_to_group("enemy")```
+Use `add_to_group("enemy")` to register the object.
 
 ---
 
