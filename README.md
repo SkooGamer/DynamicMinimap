@@ -20,13 +20,15 @@ A real-time circular minimap system for Godot 4 featuring 3D world tracking, pla
 
 ## ✨ Features
 
-- 🌍 Real-time 3D world tracking
-- 🧭 Player rotation alignment
-- 📍 Entity tracking system (enemy, item, player, etc.)
-- ⚡ Edge clamping (objects stick to border instead of disappearing)
-- 🎨 Customizable colors and icons
-- 📏 Scalable world-to-minimap mapping
-- 🧩 Easy group-based integration
+- 🌍 Rastreamento de mundo 3D e 2D em tempo real 
+- 🧭 Alinhamento de rotação do jogador 
+- 📍 Sistema de rastreamento de entidades (inimigo, item, jogador, etc.) 
+- ⚡ E
+- 🎨 **Sistema de ícones usando Recursos (Cor ou Textura 2D)** 
+- 📦 **Conjuntos de ícones padrão (carregados automaticamente)** 
+- 📏 Mapeamento escalável do mundo para o minimapa 
+- 🧩 Fácil integração baseada em grupos 
+- 🧠 Sistema de registro automático para nós rastreados 
 
 ---
 
