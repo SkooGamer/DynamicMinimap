@@ -61,6 +61,28 @@ Every object MUST:
 
 ---
 
+## ⚙️ Configuração (ATUALIZADA v1.1) 
+
+### Configuração 
+- `player_node` → Referência do jogador 
+- `radius` → Tamanho do minimapa 
+- `world_scale` → Escala do mundo para o minimapa 
+
+### Comportamento 
+- `clamp_to_border` → Mantém os objetos na borda do minimapa 
+- `rotate_with_player` → Rotaciona o minimapa com o jogador 
+- `enabled_auto_register` → Escaneia grupos automaticamente 
+
+### Ícones 
+- `icons` → Array de recursos IconType 
+- `icon_size` → Tamanho do ícone de textura 
+- `use_default_icons` → Carrega ícones padrão integrados 
+
+### Depuração 
+- `show_debug` → Imprime informações de depuração (ausentes jogador/grupos)
+
+---
+
 ## 📦 Installation
 
 1. Download or clone this repository
