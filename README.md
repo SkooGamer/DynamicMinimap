@@ -111,9 +111,11 @@ Created by **SkooGamer**
 
 ---
 
-# Preview
+# 👀 Preview
 
-![Minimap Preview](images/preview.png)
+<p align="center">
+  <img src="images/preview.png" width="600"/>
+</p>
 
 ---
 
