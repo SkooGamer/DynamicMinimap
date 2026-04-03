@@ -1,0 +1,11 @@
+[gd_resource type="Resource" script_class="IconType" format=3 uid="uid://b23in2xumgedx"]
+
+[ext_resource type="Script" uid="uid://b0yj3yg1cgoxq" path="res://addons/dynamic_minimap/IconType.gd" id="1_b5tgh"]
+[ext_resource type="Texture2D" uid="uid://c485bendekk14" path="res://icon.svg" id="2_mmk2k"]
+
+[resource]
+script = ExtResource("1_b5tgh")
+type = "enemy"
+texture = ExtResource("2_mmk2k")
+color = Color(0.9098039, 0.24705882, 0.41568628, 1)
+metadata/_custom_type_script = "uid://b0yj3yg1cgoxq"
