@@ -98,24 +98,24 @@ Example: add_to_group("enemy")
 
 ---
 
-## ⚙️ Configuração (ATUALIZADA v1.1) 
+## ⚙️ Settings (UPDATE v1.1) 
 
-### Configuração 
+### Settings 
 - `player_node` → Referência do jogador 
 - `radius` → Tamanho do minimapa 
 - `world_scale` → Escala do mundo para o minimapa 
 
-### Comportamento 
+### Behavior 
 - `clamp_to_border` → Mantém os objetos na borda do minimapa 
 - `rotate_with_player` → Rotaciona o minimapa com o jogador 
 - `enabled_auto_register` → Escaneia grupos automaticamente 
 
-### Ícones 
+### Icons
 - `icons` → Array de recursos IconType 
 - `icon_size` → Tamanho do ícone de textura 
 - `use_default_icons` → Carrega ícones padrão integrados 
 
-### Depuração 
+### Debug 
 - `show_debug` → Imprime informações de depuração (ausentes jogador/grupos)
 
 ---
