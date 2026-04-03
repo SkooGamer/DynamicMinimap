@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg">
   </a>
   <a href="https://github.com/SkooGamer/DynamicMinimap">
-    <img src="https://img.shields.io/badge/version-1.0-green">
+    <img src="https://img.shields.io/badge/version-1.1-green">
   </a>
 </p>
 
