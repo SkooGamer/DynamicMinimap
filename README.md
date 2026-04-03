@@ -94,9 +94,9 @@ Grouping is now MANDATORY for tracking.
 | Enemy | `enemy` | 
 | Item | `item` | 
 
-Exemplo: 
-```gdscript 
-add_to_group("inimigo")
+Example: 
+```gdscript
+add_to_group("enemy")
 
 ---
 
