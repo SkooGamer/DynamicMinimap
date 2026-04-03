@@ -32,6 +32,41 @@ A real-time circular minimap system for Godot 4 featuring 3D world tracking, pla
 
 ---
 
+## 🎨 Icon System (NEW v1.1)
+
+The minimap now uses a **Resource-based icon system**.
+
+Each tracked object is defined by an `IconType`, which connects:
+- A **group name**
+- A **fallback color**
+- An optional **Texture2D icon**
+
+---
+
+### ⚙️ How it works
+
+Every object MUST:
+- Be added to a Godot Group (example: `enemy`, `item`, `player`)
+- Have a matching `IconType` defined in the minimap inspector
+
+---
+
+### 🧩 IconType Structure
+
+- `type` → Group name
+- `color` → fallback color if no texture exists
+- `texture` → optional Texture2D icon
+
+---
+
+### 🎯 Render Priority
+
+1. Texture2D (if assigned)
+2. Player custom triangle icon
+3. Color fallback circle
+
+---
+
 ## 📦 Installation
 
 1. Download or clone this repository
