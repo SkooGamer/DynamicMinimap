@@ -41,23 +41,17 @@ Each tracked object is defined by an `IconType`, which connects:
 - A **fallback color**
 - An optional **Texture2D icon**
 
----
-
 ### ⚙️ How it works
 
 Every object MUST:
 - Be added to a Godot Group (example: `enemy`, `item`, `player`)
 - Have a matching `IconType` defined in the minimap inspector
 
----
-
 ### 🧩 IconType Structure
 
 - `type` → Group name
 - `color` → fallback color if no texture exists
 - `texture` → optional Texture2D icon
-
----
 
 ### 🎯 Render Priority
 
