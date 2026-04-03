@@ -119,4 +119,8 @@ Created by **SkooGamer**
 
 ## 🎥 Video Demo
 
-[![Watch on YouTube](https://img.youtube.com/vi/3KZLyM8eMgE/maxresdefault.jpg)](https://youtu.be/3KZLyM8eMgE)
+<p align="center">
+  <a href="https://youtu.be/3KZLyM8eMgE">
+    <img src="https://img.youtube.com/vi/3KZLyM8eMgE/maxresdefault.jpg" width="600"/>
+  </a>
+</p>
