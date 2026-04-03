@@ -96,7 +96,7 @@ Os grupos agora são OBRIGATÓRIOS para rastreamento.
 
 Exemplo: 
 ```gdscript 
-add_to_group("inimigo")
+add_to_group("inimigo")'''
 
 ---
 
