@@ -1,0 +1,7 @@
+# Normalizar finais de linha para LF em todos os arquivos de texto
+* text=auto eol=lf
+
+# Ignorar exportação de arquivos, exceto a pasta /addons
+/** export-ignore
+/addons !export-ignore
+/addons/** !export-ignore
